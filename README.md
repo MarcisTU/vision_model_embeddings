@@ -5,7 +5,7 @@ Current model embeddings tested:
 - [facebook/MoEViE-B16-224](https://huggingface.co/facebook/MoEViE-B16-224)
 
 ## Examples
-Dataset for testing (Download and put annotations in root dir named `data_test_pets/annotations` and images folder `data_test_pets/images`)::
+Dataset for testing (Download and put annotations in root dir named `data_test_pets/annotations` and images folder `data_test_pets/images`):
 [Oxford Pets dataset](https://www.robots.ox.ac.uk/~vgg/data/pets/)
 
 ### facebook/dinov3-convnext-large-pretrain-lvd1689m
