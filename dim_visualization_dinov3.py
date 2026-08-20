@@ -30,8 +30,8 @@ def rgb_to_lab(rgb):
 
 if __name__ == "__main__":
     # data from https://www.robots.ox.ac.uk/~vgg/data/pets/
-    IMAGE_DATA_PATH = "/home/marcis/dl_projects/dimens_reduct_viz_images/moe_vie/data_test_pets"
-    OUTPUT_PATH = "/home/marcis/dl_projects/dimens_reduct_viz_images/moe_vie/outputs"
+    IMAGE_DATA_PATH = "/home/marcis/dl_projects/dimens_reduct_viz_images/data_test_pets"
+    OUTPUT_PATH = "/home/marcis/dl_projects/dimens_reduct_viz_images/outputs"
     BATCH_SIZE = 4
 
     pretrained_model_name = "facebook/dinov3-convnext-large-pretrain-lvd1689m"

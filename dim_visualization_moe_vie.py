@@ -28,8 +28,8 @@ def rgb_to_lab(rgb):
 
 if __name__ == "__main__":
     # data from https://www.robots.ox.ac.uk/~vgg/data/pets/
-    IMAGE_DATA_PATH = "/home/marcis/dl_projects/dimens_reduct_viz_images/moe_vie/data_test_pets"
-    OUTPUT_PATH = "/home/marcis/dl_projects/dimens_reduct_viz_images/moe_vie/outputs"
+    IMAGE_DATA_PATH = "/home/marcis/dl_projects/dimens_reduct_viz_images/data_test_pets"
+    OUTPUT_PATH = "/home/marcis/dl_projects/dimens_reduct_viz_images/outputs"
     MEAN, STD = (0.5, 0.5, 0.5), (0.5, 0.5, 0.5)
     BATCH_SIZE = 4
 
