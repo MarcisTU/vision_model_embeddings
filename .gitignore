@@ -218,6 +218,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-
-# Local datasets
-moe_vie/data_test_paths/
+./data_test_pets/
